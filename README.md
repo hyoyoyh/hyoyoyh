@@ -7,5 +7,5 @@
 <p align="center">
   💻 Krafton Jungle 11기<br>
   🧩 Flask · MongoDB · Algorithm · CSAPP<br>
-  🌐 <a href="https://hyoyoyh.github.io">hyoyoyh.github.io</a>
+  // <a href="https://hyoyoyh.github.io">hyoyoyh.github.io</a>
 </p>
