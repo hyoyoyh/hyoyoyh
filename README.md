@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.ibb.co/9vbh6Zb/banner-example.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://avatars.githubusercontent.com/hyoyoyh" width="110" style="border-radius:50%;" />
 </p>
 
